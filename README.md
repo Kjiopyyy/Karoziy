@@ -1,2 +1,2 @@
 # Karoziy
-test repository for scri[t
+test repository for script
